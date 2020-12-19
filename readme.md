@@ -79,7 +79,7 @@ Answer:
 4. What is the goal that you would like the organization to reach regarding this behavior? 
     - For example, to have less than 5% of employees downloading suspicious email attachments. 
 
-    This will be based on the data collected form the Survey. 
+    This will be based on the data collected form the Survey. Once the study is completed 
 
 
 
