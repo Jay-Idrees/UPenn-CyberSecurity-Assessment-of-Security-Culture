@@ -68,12 +68,18 @@ Answer:
 
    1) The demographic infomration of the employees e-g, age group, education, background, Job title, information technology use and experience. 
 
-   2) Obtaining assessment regarding the information security behaviour, perceptions and knowledge about IT. Prior studies have demonstrated that the employee's knowledge about IT positiavely co-relates with the 
+   2) Obtaining assessment regarding the information security behaviour, perceptions and knowledge about IT. Prior studies have demonstrated that the employee's knowledge about IT positiavely co-relates with the favorable seurity behaviour. The questions will target the following dimention of evaluation: Strategy, Technology, Organization, People and Environment. The responses will be captured in the form of 5 points Likert Scale (Strongly agree, Agree, Not Sure, Disagree, Strongly disagree). Example questions include:
+
+   - I have read information security policy or strategy
+   - The organization has a written policy regarding information security
+   - The information security policy clearly states what is expected form me
 
 
 
 4. What is the goal that you would like the organization to reach regarding this behavior? 
     - For example, to have less than 5% of employees downloading suspicious email attachments. 
+
+    This will be based on the data collected form the Survey. 
 
 
 
