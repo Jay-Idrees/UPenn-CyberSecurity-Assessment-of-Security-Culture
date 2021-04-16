@@ -30,14 +30,15 @@ Answer the following questions:
 
 Answer: 
 
-        - Lost or stolen devices
+- Lost or stolen devices
 
-            According to research from Ponemon Institute, 39% of the study participants reported that their organizations had a data security breach, which was a consequence of a stolen device. 
+-  According to research from Ponemon Institute, 39% of the study participants reported that their organizations had a data security breach, which was a consequence of a stolen device. 
 
-        - Malware
-            In 2012 Jupitor Networks reported a 155% increase in the malacious software developed by hackers for mobile devices, specifically Android (Increase by 3325%)
+- Malware introduction into the network from the personal devices
 
-        - Identity theft via weak links in the Friends and Family
+In 2012 Jupitor Networks reported a 155% increase in the malacious software developed by hackers for mobile devices, specifically Android (Increase by 3325%)
+
+- Identity theft via weak links in the Friends and Family
             The US Treasury Department's Financial Crimes Enforcement Network found that in about 27% of the suspicious activity reports, the person victim of the identity theft knew the suspected thief who was usually a famiy member, friend, acquaintance or an employee working in a victim's home. 
 
 
@@ -45,7 +46,7 @@ Answer:
 
 
 2. Based on the above scenario, what is the preferred employee behavior? 
-    - For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources. 
+    - For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources such as within the network e-mail/intranet 
 
 Answer:
 
