@@ -28,18 +28,19 @@ Answer the following questions:
 
 1. Using outside research, indicate the potential security risks of allowing employees to access work information on their personal devices. Identify at least three potential attacks that can be carried out.
 
-Answer: 
+> Answer: 
 
 - Lost or stolen devices
 
 -  According to research from Ponemon Institute, 39% of the study participants reported that their organizations had a data security breach, which was a consequence of a stolen device. 
 
-- Malware introduction into the network from the personal devices
+- Malware introduction into the network from the infected personal devices
 
 In 2012 Jupitor Networks reported a 155% increase in the malacious software developed by hackers for mobile devices, specifically Android (Increase by 3325%)
 
 - Identity theft via weak links in the Friends and Family
-            The US Treasury Department's Financial Crimes Enforcement Network found that in about 27% of the suspicious activity reports, the person victim of the identity theft knew the suspected thief who was usually a famiy member, friend, acquaintance or an employee working in a victim's home. 
+
+The US Treasury Department's Financial Crimes Enforcement Network found that in about 27% of the suspicious activity reports, the person victim of the identity theft knew the suspected thief who was usually a famiy member, friend, acquaintance or an employee working in a victim's home. 
 
 
 
@@ -48,15 +49,15 @@ In 2012 Jupitor Networks reported a 155% increase in the malacious software deve
 2. Based on the above scenario, what is the preferred employee behavior? 
     - For example, if employees were downloading suspicious email attachments, the preferred behavior would be that employees only download attachments from trusted sources such as within the network e-mail/intranet 
 
-Answer:
+> Answer:
 
 - For the potential risks listed above, the preferred Behaviour is as follows:
-      - Lost or stolen devices correction: Use encripted devices. Ideally the company should work on policies and work environment to such an extent that the employee does not have to work from home. However this may not be achievable in every situation and some professions necessitate the employees to work from home. The company can then have a policy to issue encrypted secure laptops/computers issued to the employees. Alternatively, the company can have the policy to encrypt an employee's personal laptop or device. The employee can be given a choice whether to use the company issued enctypted laptop or have their own laptop/mobile enctypted
+      - Lost or stolen devices correction: Use encripted devices. Ideally the company should work on policies and work environment to such an extent that the employee does not have to work from home. However this may not be achievable in every situation and some professions necessitate the employees to work from home. In those situations employees should be able to access work related files from home while using a VPN. In addition the company can then have a policy to issue encrypted secure laptops/computers issued to the employees. Alternatively, the company can have the policy to encrypt an employee's personal laptop or device. The employee can be given a choice whether to use the company issued enctypted laptop or have their own laptop/mobile enctypted.
 
 
  - Increased protection from malware: Installing an anti-malware on their personal devices. The company can offer employees to install latest anti-malware software on their personal devices as part of the benifits package for working in the company
 
-- Increasing awareness: The corrective employee behaviour would be to be congnizant of the ways they are vulnerable to identify theft by sharing real world data such as the researh conducted by the US Treasurey Department
+- Increasing awareness: The corrective employee behaviour would be to be congnizant of the ways they are vulnerable to identity theft by sharing real world data such as the researh conducted by the US Treasurey Department signifiying that close friends and even family menmbers can act as a weak link and lead to identity theft
 
 
 
@@ -104,16 +105,14 @@ Five People to involve
     - Implementing the techological aspects of the cybersecurity porposed plan, e-g installing malwares, upgrading OS, encrypting employee's phones or laptops
     - Conducting surveys  for the aassessment of security culture, conducting quality control studies for repeat assessment of whether the company is achieving the set milestones and goals for the implementation of the security policy
 
- - Board of Directors
-    - Inccorporating the proposed security culture policies into the company policies and starategy in combating insecure employee practices
-
  - Chief Operating officer
      - Communicating the policy changes to the employees
      - Training the employees against the security threats by creating awareness courses- such as awareness regarding the mechanisms of identity theft
      
 
- - Chief of Staff
+ - Chief of Staff or Senior Manager
     - Hiering new personel as needed for implementing the new security culture- such as new IT specialists. Appointing a chief information security officer (CISO)
+    - Communicating the security risks to the lower managers and setting up VPNs foremployees
 
  - Chief Financial Officer
     - Determining the financial feasibility in instituting the new company policies. For example determining whether the company can afford to issue new encrypted phones or laptops to the employees. 
@@ -138,14 +137,14 @@ Answer:
 
   1) State of the company: The designated officials will share statistics regarding the companies employee's and the risk of cybersecurity threats. Any relevant data regarding the past incidents will also be shared.
 
-  2) Emphasizing the companies culture that cybersecurity is "everyone's responsibility"
+  2) Emphasizing the company's culture that cybersecurity is "everyone's responsibility"
 
   3) Information regarding who to contact and report if an employee suspects a data breach, recieves a suspiscious e-mail etc. 
 
   4) Introduction to reward programs for compliance with the cybersecurity policies or reporting incidents. 
 
 
-  In addition to the inperson/live sessions, the employees will also take additional course to create awareness on specific catefories of cybersecurity insults
+  In addition to the inperson/live sessions, the employees will also take additional course to create awareness on specific categories of cybersecurity insults. The courses would need to be taken on an annual basis with an update on the new security risks
 
   1) Phishing scams: Emphasizing not to click unfamiliar links in external e-mail. Emphasizing the the company's adminstration will never ask the employee's to directly provide password etc
 
@@ -155,7 +154,7 @@ Answer:
 
   4) Certain employees maybe more vulnerable, especially if they need to routinely perform work related activities from home. For example residents who need to obtain access to electronic medical records of patients from home. Such employees may be better off with using company's issued divices with secure incription at home. An alternative will be encrypting the employee's personal devices (if they are willing ) for remote work. 
 
-  5) The emyployees will be educated regarding the 2 factor identification to prevent identity theft. The online training will inform the employees with examples regarding the mechanisms of identity theft along with videos of how to set this up at the start of their employment
+  5) The emyployees will be educated regarding the 2 or 4 factor identification system to prevent identity theft. The online training will inform the employees with examples regarding the mechanisms of identity theft along with videos of how to set this up at the start of their employment
 
   6) The employees will be educated about the company's policies of not using external USB, how to obtain encryted USBs for work that maybe issued by the company if needed.
 
